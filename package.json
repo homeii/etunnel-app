@@ -1,0 +1,18 @@
+{
+  "name": "easytunnelapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "easyTunnel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node easyTunnel"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "easytunnel": "0.1.0-r2",
+    "express": "^4.13.4",
+    "express-http-proxy": "^0.7.0",
+    "pangolin": "^1.0.10"
+  }
+}
